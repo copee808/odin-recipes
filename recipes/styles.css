@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(33, 33, 33);
+}
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+    font-style: italic;
+}
+p {
+    color: moccasin;
+    text-align:left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+}
+h2 {
+    color: cornflowerblue;
+    font-family: cursive;
+    text-decoration: underline;
+    font-style: italic;
+}
+ul {
+    color: moccasin;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol {
+    color: cornflowerblue;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+    color: cornflowerblue;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+    font-style: italic;
+}
+img {
+    height: auto;
+    width: 350px;
+}
